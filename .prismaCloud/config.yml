@@ -20,3 +20,6 @@ terraform_012_parameters:
 - root_module: scan/
 variable_files:
  - scan/variables.tf
+tags:
+- Org:OCISO-ISE
+- Team:Shift_Left
